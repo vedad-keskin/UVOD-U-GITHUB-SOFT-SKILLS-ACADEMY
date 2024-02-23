@@ -2,4 +2,3 @@ Ovo je napisao programer 1
 Ovo je napisao programer 2
 Ova linija ce izazvati konflikt
 
-var config = "https://localhost:44357/";
