@@ -1,1 +1,0 @@
-var adresa = "https://localhost:55233/";
